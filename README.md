@@ -1,12 +1,12 @@
-# Hi, I'm Salim  👋
+# Hi, I'm Salim  
 
 **Cybersecurity graduate student (MPS) focused on Governance, Risk & Compliance (GRC)**, with a finance background in internal controls, audit, and quantitative risk. I build practical GRC artifacts — risk assessments, control frameworks, and audit deliverables — and automate the repetitive parts in Python.
 
-📍 Dallas–Fort Worth · 🎓 MPS Cybersecurity, Fort Hays State University
+Hays, Kansas ·  MPS Cybersecurity, Fort Hays State University 
 
 ---
 
-## 🛡️ GRC Portfolio
+##  GRC Portfolio
 
 Three projects covering the full GRC arc — **risk → frameworks → audit** — each built on a fictional fintech and grounded in real standards.
 
@@ -27,7 +27,7 @@ Three projects covering the full GRC arc — **risk → frameworks → audit** �
 
 ---
 
-## 🧰 Skills & Frameworks
+## Skills & Frameworks
 
 **GRC:** Risk assessment & risk registers · Controls gap analysis · SOX internal controls · Audit support
 **Frameworks:** NIST CSF 2.0 · NIST SP 800-53 · ISO/IEC 27001 · COSO · CIS Controls
@@ -36,7 +36,7 @@ Three projects covering the full GRC arc — **risk → frameworks → audit** �
 
 ---
 
-## 📫 Connect
+## Let's Connect!
 
 📧 elhadjisalimmbaye@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/salim-mbaye-9922a8181/)
 
