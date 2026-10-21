@@ -1,4 +1,4 @@
-# Hi, I'm Salim Mbaye 👋
+# Hi, I'm Salim  👋
 
 **Cybersecurity graduate student (MPS) focused on Governance, Risk & Compliance (GRC)**, with a finance background in internal controls, audit, and quantitative risk. I build practical GRC artifacts — risk assessments, control frameworks, and audit deliverables — and automate the repetitive parts in Python.
 
