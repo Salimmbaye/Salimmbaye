@@ -10,6 +10,8 @@ Hays, Kansas ·  MPS Cybersecurity, Fort Hays State University
 
 Here are three projects covering the full GRC arc — **risk → frameworks → audit** — each built on a fictional fintech and grounded in real standards.
 
+Organization name: NorthStar Lending, Inc.
+
 ### 1. [Information Security Risk Assessment (NIST CSF 2.0)](https://github.com/Salimmbaye/risk-assessment-fintech)
 > An end-to-end risk assessment: a 14-risk register scored for inherent vs. residual risk, mapped to NIST CSF, with a Python scoring engine, a risk heatmap, and a quantitative loss model (SLE/ALE) to justify remediation spend.
 
