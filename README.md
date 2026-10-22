@@ -40,6 +40,6 @@ Organization name: NorthStar Lending, Inc.
 
 ## Let's Connect!
 
-📧 elhadjisalimmbaye@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/salim-mbaye-9922a8181/)
+ elhadjisalimmbaye@gmail.com · [LinkedIn](https://www.linkedin.com/in/salim-mbaye-9922a8181/)
 
 <sub>Portfolio projects use fictional companies and invented data to demonstrate methodology.</sub>
