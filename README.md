@@ -1,6 +1,6 @@
 # Hi, I'm Salim  
 
-**Cybersecurity graduate student (MPS) focused on Governance, Risk & Compliance (GRC)**, with a finance background in internal controls, audit, and quantitative risk. I build practical GRC artifacts — risk assessments, control frameworks, and audit deliverables — in Excel and Word, and I'm exploring how AI and Python can automate GRC work.
+Cybersecurity graduate student (MPS) focused on Governance, Risk & Compliance (GRC), with a finance background in internal controls, audit, and quantitative risk. I build practical GRC artifacts — risk assessments, control frameworks, and audit deliverables — in Excel and Word, and I'm exploring how AI and Python can automate GRC work.
 
 Hays, Kansas ·  MPS Cybersecurity, Fort Hays State University 
 
